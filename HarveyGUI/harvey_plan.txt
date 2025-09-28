@@ -1,0 +1,4 @@
+1. open_app('Safari')
+2. type_text('cat pictures')
+3. hotkey('return')
+4. done()

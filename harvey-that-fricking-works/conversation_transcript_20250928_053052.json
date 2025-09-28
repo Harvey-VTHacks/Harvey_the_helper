@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-09-28T05:30:04.755928",
+    "speaker": "Gemini",
+    "message": "Hello! I'm here to help you with tasks on your computer. What would you like to do today?"
+  },
+  {
+    "timestamp": "2025-09-28T05:30:25.871509",
+    "speaker": "User",
+    "message": "Help me with my email."
+  },
+  {
+    "timestamp": "2025-09-28T05:30:26.540515",
+    "speaker": "Gemini",
+    "message": "What would you like to do with your email?"
+  },
+  {
+    "timestamp": "2025-09-28T05:30:43.554378",
+    "speaker": "User",
+    "message": "I want to go to Gmail and read my latest email that I have received in my inbox."
+  },
+  {
+    "timestamp": "2025-09-28T05:30:44.913937",
+    "speaker": "Gemini",
+    "message": "I'll open Gmail and show you your latest email."
+  }
+]

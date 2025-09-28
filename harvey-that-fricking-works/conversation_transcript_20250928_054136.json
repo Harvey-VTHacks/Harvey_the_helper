@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-09-28T05:41:07.285060",
+    "speaker": "Gemini",
+    "message": "Hello! I'm here to help you with tasks on your computer. What would you like to do today?"
+  },
+  {
+    "timestamp": "2025-09-28T05:41:27.999514",
+    "speaker": "User",
+    "message": "I want to go to my Gmail inbox and open up my latest email."
+  },
+  {
+    "timestamp": "2025-09-28T05:41:28.906926",
+    "speaker": "Gemini",
+    "message": "I'll open your Gmail inbox and show you your latest email."
+  }
+]
