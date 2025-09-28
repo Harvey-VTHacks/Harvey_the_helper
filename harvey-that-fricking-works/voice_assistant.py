@@ -37,7 +37,7 @@ def wave_file(filename, pcm, channels=1, rate=24000, sample_width=2):
 
 
 def voice_assistant(
-    api_key: str = "AIzaSyAEQK1GCdqQb-mDt7NctkHdvq0odOeNGhA",
+    api_key: str = os.getenv("GEMINI_API_KEY"),
     voice_name: str = "Charon",
     record_seconds: int = 5,
     auto_analyze: bool = True,
@@ -381,3 +381,4 @@ if __name__ == "__main__":
         print(f"Action items found: {len(result['action_items'])}")
         for i, item in enumerate(result["action_items"], 1):
             print(f"  {i}. {item}")
+
